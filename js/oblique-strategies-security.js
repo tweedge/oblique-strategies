@@ -152,7 +152,7 @@ var strategies = [
 ];
 
 function chooseOblique() {
-	var random = Math.floor(Math.random() * (strategies.length + 1));
+	var random = Math.floor(Math.random() * (strategies.length));
     return strategies[random];
 };
 
