@@ -78,7 +78,7 @@ var strategies = [
     "Look closely at the most embarrassing details & amplify them (Brian Eno, Peter Schmidt)",
     "Look for a good enough approximation (kevinlawler.com)",
     "Look for a hack (kevinlawler.com)",
-    "Look for ways to chain tools(kevinlawler.com)",
+    "Look for ways to chain tools (kevinlawler.com)",
     "Lost in useless territory (Brian Eno, Peter Schmidt)",
     "Lowest common denominator (Brian Eno, Peter Schmidt)",
     "Magnify the most difficult details (Brian Eno, Peter Schmidt)",
