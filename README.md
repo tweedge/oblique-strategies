@@ -1,10 +1,10 @@
 # Oblique Strategies (for Security)
 
-A very simple [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) shuffler.
-
-TBD: ... with my custom deck of cards, remixed to promote [lateral thinking](https://en.wikipedia.org/wiki/Lateral_thinking) in my field of work: cybersecurity.
+A very simple [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) shuffler with my custom deck of cards, remixed to promote [lateral thinking](https://en.wikipedia.org/wiki/Lateral_thinking) in my field of work: cybersecurity.
 
 Available here: [https://oblique.tweedge.net/](https://oblique.tweedge.net/)
+
+Please feel free to submit new card ideas as issues or PRs - ideally with a little context! Though the most reliable way to test cards is to fork this and use them yourself first. :)
 
 ### Instructions
 
