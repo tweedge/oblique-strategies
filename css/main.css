@@ -19,7 +19,7 @@ html, body {
 
 body {
   font-family: Helvetica, arial, sans;
-  background-color: var(--light-base);
+  background-color: var(--dark-base);
   color: var(--dark-base);
   background-size: cover;
   margin: 0;
@@ -117,8 +117,4 @@ div.bg {
   height: 100px;
   margin: 10px;
 }
-
-@import "icons.css";
-@import "controls.css";
-@import "about.css";
 
