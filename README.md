@@ -1,6 +1,6 @@
 # Oblique Strategies (for Security)
 
-A very simple [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) shuffler with my custom deck of cards, remixed to promote [lateral thinking](https://en.wikipedia.org/wiki/Lateral_thinking) in my field of work: cybersecurity. A number of cards are pulled from software and tech quiters, which are cited inline.
+A very simple [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) shuffler with my custom deck of cards, remixed to promote [lateral thinking](https://en.wikipedia.org/wiki/Lateral_thinking) in my field of work: cybersecurity. A number of cards are pulled from software and tech writers, which are cited inline.
 
 Need to unstick yourself? It's available here: [https://oblique.tweedge.net/](https://oblique.tweedge.net/)
 
