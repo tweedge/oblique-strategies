@@ -58,7 +58,7 @@ var strategies = [
     "Go to an extreme, come part way back (Brian Eno, Peter Schmidt)",
     "Have faith in sound-looking abstractions (kevinlawler.com)",
     "Have goals and subdivide them (kevinlawler.com)",
-    "Have opinions (guess wrong, then check) (kevinlalwer.com)",
+    "Have opinions (guess wrong, then check) (kevinlawler.com)",
     "Honor thy mistake as a hidden intention (Brian Eno, Peter Schmidt)",
     "How will customers interact with it? (tweedge)",
     "How would someone else do it? (Brian Eno, Peter Schmidt)",
