@@ -16,7 +16,7 @@ Brian Eno and Peter Schmidt's earliest decks included this instruction:
 
 ### Design Choices
 
-1. No built in refresh - if you're stuck and need direction, take what the cards give you and try to run with it, or pivot off what you got to find a new direction and *start*. Don't get stuck refreshing for the "right" card. There is no "right" card.
+1. No built in refresh - if you're stuck and need direction, take what the cards give you and try to run with it, or pivot off what you got to find a new direction and *start*. Don't get stuck refreshing for the "right" card. There is no "right" card. If you're a little frustrated, [it's working](https://www.youtube.com/watch?v=N7wF2AdVy2Q).
 2. These oblique strategies are less oblique; few might even verge on prescriptive. Tech and art do have strong parallels, but my creative strategies for expression versus problem-solving are different. If you are in a place where you need something more abstract, the original shuffler with Brian Eno and Peter Schmidt's original deck [is included](https://oblique.tweedge.net/original.html).
 
 ### Credits
